@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/alyonagerasimova/LabOOP" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AgapovaDaria/LabOOP" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Алёна\IdeaProjects" />
+    <option name="cloneParentDir" value="C:\Users\Алёна" />
   </component>
 </application>
